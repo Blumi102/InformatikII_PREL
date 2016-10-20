@@ -1,0 +1,5 @@
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\komplex_dll\komplex_dll\bin\Debug\komplex_dll.dll
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\komplex_dll\komplex_dll\bin\Debug\komplex_dll.pdb
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\komplex_dll\komplex_dll\obj\Debug\komplex_dll.dll
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\komplex_dll\komplex_dll\obj\Debug\komplex_dll.pdb
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\komplex_dll\komplex_dll\obj\Debug\komplex_dll.csprojResolveAssemblyReference.cache

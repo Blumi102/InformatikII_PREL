@@ -1,0 +1,11 @@
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\Basic_G07\Basic_G07\bin\Debug\Basic_G07.exe.config
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\Basic_G07\Basic_G07\bin\Debug\Basic_G07.exe
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\Basic_G07\Basic_G07\bin\Debug\Basic_G07.pdb
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\Basic_G07\Basic_G07\bin\Debug\komplex_dll.dll
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\Basic_G07\Basic_G07\bin\Debug\komplex_dll.pdb
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\Basic_G07\Basic_G07\obj\Debug\Basic_G07.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\Basic_G07\Basic_G07\obj\Debug\Basic_G07.Form1.resources
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\Basic_G07\Basic_G07\obj\Debug\Basic_G07.Properties.Resources.resources
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\Basic_G07\Basic_G07\obj\Debug\Basic_G07.csproj.GenerateResource.Cache
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\Basic_G07\Basic_G07\obj\Debug\Basic_G07.exe
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\Basic_G07\Basic_G07\obj\Debug\Basic_G07.pdb

@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="GPSies http://www.gpsies.com - Route Von Weststra&amp;#223;e 8 Nach Am Hohen Stein 21, Karlsruhe" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Route Von Weststraße 8 Nach Am Hohen Stein 21, Karlsruhe</name>
+    <link href="http://www.gpsies.com/">
+      <text>Route Von Weststraße 8 Nach Am Hohen Stein 21, Karlsruhe on GPSies.com</text>
+    </link>
+    <time>2016-10-20T20:15:00Z</time>
+  </metadata>
+  <wpt lat="50.68265000" lon="12.01517000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:00:00Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68259000" lon="12.01501000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:00:04Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68299000" lon="12.01459000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:00:23Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68301000" lon="12.01462000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:00:25Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68341000" lon="12.01565000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:00:55Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68350000" lon="12.01579000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:01:00Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68351000" lon="12.01596000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:01:05Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68383000" lon="12.01726000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:01:40Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68389000" lon="12.01770000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:01:51Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68391000" lon="12.01806000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:02:01Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68389000" lon="12.01822000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:02:05Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68386000" lon="12.01836000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:02:08Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68380000" lon="12.01833000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:02:11Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68369000" lon="12.01835000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:02:15Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68337000" lon="12.01856000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:02:29Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68331000" lon="12.01858000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:02:32Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68317000" lon="12.01859000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:02:37Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68308000" lon="12.01857000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:02:41Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68279000" lon="12.01838000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:02:54Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68264000" lon="12.01826000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:03:00Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68228000" lon="12.01793000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:03:17Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="50.68207000" lon="12.01775000">
+    <ele>0.0000000</ele>
+    <time>2010-01-01T00:03:26Z</time>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+</gpx>

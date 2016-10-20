@@ -1,0 +1,6 @@
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\WahlaufgabenII_W02\WahlaufgabenII_W02\bin\Debug\WahlaufgabenII_W02.exe.config
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\WahlaufgabenII_W02\WahlaufgabenII_W02\bin\Debug\WahlaufgabenII_W02.exe
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\WahlaufgabenII_W02\WahlaufgabenII_W02\bin\Debug\WahlaufgabenII_W02.pdb
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\WahlaufgabenII_W02\WahlaufgabenII_W02\obj\Debug\WahlaufgabenII_W02.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\WahlaufgabenII_W02\WahlaufgabenII_W02\obj\Debug\WahlaufgabenII_W02.exe
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\WahlaufgabenII_W02\WahlaufgabenII_W02\obj\Debug\WahlaufgabenII_W02.pdb
