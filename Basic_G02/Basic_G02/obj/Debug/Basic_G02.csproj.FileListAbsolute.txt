@@ -1,0 +1,8 @@
+D:\syncplicity\z003jy8t\Dev\Programme DH\prel\Basic_G02\Basic_G02\bin\Debug\Basic_G02.exe
+D:\syncplicity\z003jy8t\Dev\Programme DH\prel\Basic_G02\Basic_G02\bin\Debug\Basic_G02.pdb
+D:\syncplicity\z003jy8t\Dev\Programme DH\prel\Basic_G02\Basic_G02\obj\Debug\Basic_G02.csprojResolveAssemblyReference.cache
+D:\syncplicity\z003jy8t\Dev\Programme DH\prel\Basic_G02\Basic_G02\obj\Debug\Basic_G02.Form1.resources
+D:\syncplicity\z003jy8t\Dev\Programme DH\prel\Basic_G02\Basic_G02\obj\Debug\Basic_G02.Properties.Resources.resources
+D:\syncplicity\z003jy8t\Dev\Programme DH\prel\Basic_G02\Basic_G02\obj\Debug\Basic_G02.csproj.GenerateResource.Cache
+D:\syncplicity\z003jy8t\Dev\Programme DH\prel\Basic_G02\Basic_G02\obj\Debug\Basic_G02.exe
+D:\syncplicity\z003jy8t\Dev\Programme DH\prel\Basic_G02\Basic_G02\obj\Debug\Basic_G02.pdb
