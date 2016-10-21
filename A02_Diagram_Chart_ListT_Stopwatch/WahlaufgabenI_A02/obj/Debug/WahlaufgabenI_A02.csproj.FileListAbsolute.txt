@@ -1,0 +1,12 @@
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\WahlaufgabenI_A02\WahlaufgabenI_A02\bin\Debug\WahlaufgabenI_A02.exe.config
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\WahlaufgabenI_A02\WahlaufgabenI_A02\obj\Debug\WahlaufgabenI_A02.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\WahlaufgabenI_A02\WahlaufgabenI_A02\obj\Debug\WahlaufgabenI_A02.Form1.resources
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\WahlaufgabenI_A02\WahlaufgabenI_A02\obj\Debug\WahlaufgabenI_A02.Properties.Resources.resources
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\WahlaufgabenI_A02\WahlaufgabenI_A02\obj\Debug\WahlaufgabenI_A02.csproj.GenerateResource.Cache
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\WahlaufgabenI_A02\WahlaufgabenI_A02\bin\Debug\WahlaufgabenI_A02.exe
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\WahlaufgabenI_A02\WahlaufgabenI_A02\bin\Debug\WahlaufgabenI_A02.pdb
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\WahlaufgabenI_A02\WahlaufgabenI_A02\obj\Debug\WahlaufgabenI_A02.exe
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\WahlaufgabenI_A02\WahlaufgabenI_A02\obj\Debug\WahlaufgabenI_A02.pdb
+D:\InformatikII_PREL\A02_Diagram_Chart_ListT_Stopwatch\WahlaufgabenI_A02\bin\Debug\WahlaufgabenI_A02.exe.config
+D:\InformatikII_PREL\A02_Diagram_Chart_ListT_Stopwatch\WahlaufgabenI_A02\obj\Debug\WahlaufgabenI_A02.exe
+D:\InformatikII_PREL\A02_Diagram_Chart_ListT_Stopwatch\WahlaufgabenI_A02\obj\Debug\WahlaufgabenI_A02.pdb
