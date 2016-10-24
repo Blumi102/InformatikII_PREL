@@ -35,18 +35,15 @@
             this.label2 = new System.Windows.Forms.Label();
             this.Frequenz_slider = new System.Windows.Forms.TrackBar();
             this.Zeit_t = new System.Windows.Forms.Timer(this.components);
-            this.label3 = new System.Windows.Forms.Label();
-            this.Wellenlaengen_slider = new System.Windows.Forms.TrackBar();
             ((System.ComponentModel.ISupportInitialize)(this.Amplituden_slider)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Frequenz_slider)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Wellenlaengen_slider)).BeginInit();
             this.SuspendLayout();
             // 
             // zeichnen_Panel
             // 
             this.zeichnen_Panel.Location = new System.Drawing.Point(23, 81);
             this.zeichnen_Panel.Name = "zeichnen_Panel";
-            this.zeichnen_Panel.Size = new System.Drawing.Size(900, 300);
+            this.zeichnen_Panel.Size = new System.Drawing.Size(900, 410);
             this.zeichnen_Panel.TabIndex = 0;
             this.zeichnen_Panel.Paint += new System.Windows.Forms.PaintEventHandler(this.zeichnen_Panel_Paint);
             // 
@@ -56,7 +53,8 @@
             this.Amplituden_slider.Name = "Amplituden_slider";
             this.Amplituden_slider.Size = new System.Drawing.Size(104, 45);
             this.Amplituden_slider.TabIndex = 1;
-            this.Amplituden_slider.Value = 2;
+            this.Amplituden_slider.Value = 5;
+            this.Amplituden_slider.Scroll += new System.EventHandler(this.Amplituden_slider_Scroll);
             // 
             // label1
             // 
@@ -79,40 +77,22 @@
             // Frequenz_slider
             // 
             this.Frequenz_slider.Location = new System.Drawing.Point(133, 30);
+            this.Frequenz_slider.Minimum = 3;
             this.Frequenz_slider.Name = "Frequenz_slider";
             this.Frequenz_slider.Size = new System.Drawing.Size(104, 45);
             this.Frequenz_slider.TabIndex = 3;
-            this.Frequenz_slider.Value = 2;
+            this.Frequenz_slider.Value = 3;
+            this.Frequenz_slider.Scroll += new System.EventHandler(this.Frequenz_slider_Scroll);
             // 
             // Zeit_t
             // 
-            this.Zeit_t.Interval = 1000;
             this.Zeit_t.Tick += new System.EventHandler(this.Timer_Tick);
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(251, 9);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(66, 13);
-            this.label3.TabIndex = 6;
-            this.label3.Text = "Wellenlänge";
-            // 
-            // Wellenlaengen_slider
-            // 
-            this.Wellenlaengen_slider.Location = new System.Drawing.Point(243, 30);
-            this.Wellenlaengen_slider.Name = "Wellenlaengen_slider";
-            this.Wellenlaengen_slider.Size = new System.Drawing.Size(104, 45);
-            this.Wellenlaengen_slider.TabIndex = 5;
-            this.Wellenlaengen_slider.Value = 2;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(944, 412);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.Wellenlaengen_slider);
+            this.ClientSize = new System.Drawing.Size(944, 516);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.Frequenz_slider);
             this.Controls.Add(this.label1);
@@ -122,7 +102,6 @@
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.Amplituden_slider)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Frequenz_slider)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Wellenlaengen_slider)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -136,8 +115,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TrackBar Frequenz_slider;
         private System.Windows.Forms.Timer Zeit_t;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TrackBar Wellenlaengen_slider;
     }
 }
 

@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden 
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("WahlaufgabenII_W06")]
+[assembly: AssemblyTitle("W06_user32.dll")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Licence Owner")]
-[assembly: AssemblyProduct("WahlaufgabenII_W06")]
-[assembly: AssemblyCopyright("Copyright © Licence Owner 2016")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("W06_user32.dll")]
+[assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Die folgende GUID bestimmt die ID der Typbibliothek, wenn dieses Projekt für COM verfügbar gemacht wird
-[assembly: Guid("9d228169-564b-4f09-a431-6dcf51f579ac")]
+[assembly: Guid("33015634-1201-49b9-8897-68134dc2ab4b")]
 
 // Versionsinformationen für eine Assembly bestehen aus den folgenden vier Werten:
 //
