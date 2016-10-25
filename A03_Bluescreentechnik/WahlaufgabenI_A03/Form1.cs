@@ -19,7 +19,7 @@ namespace WahlaufgabenI_A03
 
         private void Convert_button_Click(object sender, EventArgs e)
         {
-            Bitmap ergebnis = new Bitmap(pic1_box.Image);
+            Bitmap ergebnis = new Bitmap(255, 255);
             for (int i = 0; i < 255; i++)
             {
                 for (int j = 0; i < 255; i++)
@@ -33,7 +33,7 @@ namespace WahlaufgabenI_A03
                     Bitmap pic2 = new Bitmap(pic2_box.Image);
                     Color pixelcolor2 = pic2.GetPixel(i, j);
 
-                    if (!(g > r))
+                    if (g-r>35 && g-b>35)
                     {
                         ergebnis.SetPixel(i, j, pixelcolor1);
                     }
@@ -51,7 +51,7 @@ namespace WahlaufgabenI_A03
             select_pic_dialog.InitialDirectory = Environment.CurrentDirectory;
             if (select_pic_dialog.ShowDialog() == DialogResult.OK)
             {
-                pic1_box.SizeMode = PictureBoxSizeMode.StretchImage;
+                pic1_box.SizeMode = PictureBoxSizeMode.Zoom;
                 FileStream Imagestream = new FileStream(select_pic_dialog.FileName, FileMode.Open, FileAccess.Read);
                 pic1_box.Image = System.Drawing.Image.FromStream(Imagestream);
                 Imagestream.Close();        
@@ -63,7 +63,7 @@ namespace WahlaufgabenI_A03
             select_pic_dialog.InitialDirectory = Environment.CurrentDirectory;
             if (select_pic_dialog.ShowDialog() == DialogResult.OK)
             {
-                pic2_box.SizeMode = PictureBoxSizeMode.StretchImage;
+                pic2_box.SizeMode = PictureBoxSizeMode.Zoom;
                 FileStream Imagestream = new FileStream(select_pic_dialog.FileName, FileMode.Open, FileAccess.Read);
                 pic2_box.Image = System.Drawing.Image.FromStream(Imagestream);
                 Imagestream.Close();
