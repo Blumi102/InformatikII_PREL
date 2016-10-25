@@ -11,7 +11,7 @@ namespace W06_user32.dll
    
     class Program
     {
-        [DllImport("User32.dll)")]
+        [DllImport("User32.dll")]
         static extern IntPtr GetDC(IntPtr pointer);
 
 

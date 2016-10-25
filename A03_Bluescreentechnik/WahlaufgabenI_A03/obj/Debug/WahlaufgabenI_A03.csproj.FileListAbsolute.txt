@@ -8,3 +8,11 @@ D:\syncplicity\z003jy8t\Dev\Programme DH\prel\WahlaufgabenI_A03\WahlaufgabenI_A0
 D:\syncplicity\z003jy8t\Dev\Programme DH\prel\WahlaufgabenI_A03\WahlaufgabenI_A03\obj\Debug\WahlaufgabenI_A03.pdb
 D:\syncplicity\z003jy8t\Dev\Programme DH\prel\WahlaufgabenI_A03_nicht_fertig\WahlaufgabenI_A03\obj\Debug\WahlaufgabenI_A03.exe
 D:\syncplicity\z003jy8t\Dev\Programme DH\prel\WahlaufgabenI_A03_nicht_fertig\WahlaufgabenI_A03\obj\Debug\WahlaufgabenI_A03.pdb
+D:\InformatikII_PREL\A03_Bluescreentechnik\WahlaufgabenI_A03\obj\Debug\WahlaufgabenI_A03.exe
+D:\InformatikII_PREL\A03_Bluescreentechnik\WahlaufgabenI_A03\obj\Debug\WahlaufgabenI_A03.pdb
+D:\InformatikII_PREL\A03_Bluescreentechnik\WahlaufgabenI_A03\bin\Debug\WahlaufgabenI_A03.exe
+D:\InformatikII_PREL\A03_Bluescreentechnik\WahlaufgabenI_A03\bin\Debug\WahlaufgabenI_A03.pdb
+D:\InformatikII_PREL\A03_Bluescreentechnik\WahlaufgabenI_A03\obj\Debug\WahlaufgabenI_A03.csprojResolveAssemblyReference.cache
+D:\InformatikII_PREL\A03_Bluescreentechnik\WahlaufgabenI_A03\obj\Debug\WahlaufgabenI_A03.Form1.resources
+D:\InformatikII_PREL\A03_Bluescreentechnik\WahlaufgabenI_A03\obj\Debug\WahlaufgabenI_A03.Properties.Resources.resources
+D:\InformatikII_PREL\A03_Bluescreentechnik\WahlaufgabenI_A03\obj\Debug\WahlaufgabenI_A03.csproj.GenerateResource.Cache

@@ -36,11 +36,15 @@ namespace Basic_G08
             ampl = Amplituden_slider.Value;
 
 
-            Collection<PointF> welle = new Collection<PointF>(); // Liste mit allen Punkten der Schwebung
+            Collection<PointF> welle = new Collection<PointF>(); // Liste mit allen Punkten der Welle
+            Collection<PointF> welle1 = new Collection<PointF>(); // Liste mit allen Punkten der Welle1
+            Collection<PointF> welle2 = new Collection<PointF>(); // Liste mit allen Punkten der Welle2
+
             Graphics g = e.Graphics; ; //Grapgikobjekt anlegen
             g.TranslateTransform(0, zeichnen_Panel.Height/2); //Koordinatenursprung versetzen
             //SolidBrush Brush_Welle = new SolidBrush(Color.Red);
             Pen Pen_Welle = new Pen(Color.Red);
+            Pen Pen_Teilwelle = new Pen(Color.Black);
             Pen pen_Koordinatensystem = new Pen(Color.Black, 1);
             SolidBrush Brush_Beschriftung = new SolidBrush(Color.Black);
 
@@ -48,17 +52,23 @@ namespace Basic_G08
             for (float i = 0F; i < zeichnen_Panel.Width; i = i + 0.1F)
             {
                 float y = (float)ampl * ((float)Math.Sin(w * (i - phi)) + (float)Math.Sin(w * (i + phi)));
-
+                float y1 = (float)ampl * ((float)Math.Sin(w * (i - phi)));
+                float y2 = (float)ampl * ((float)Math.Sin(w * (i + phi)));
                 //xpos = (int)(i * 10);
                 //ypos = (int)(y * 10);
 
                 //g.FillEllipse(Brush_Welle, xpos, ypos, 1, 1);
 
                 welle.Add(new PointF(10 * i, 10 * y));
+                welle1.Add(new PointF(10 * i, 10 * y1));
+                welle2.Add(new PointF(10 * i, 10 * y2));
+              
             }
 
             g.Clear(Color.White);
             g.DrawCurve(Pen_Welle, welle.ToArray());
+            g.DrawCurve(Pen_Teilwelle, welle1.ToArray());
+            g.DrawCurve(Pen_Teilwelle, welle2.ToArray());
 
             g.DrawLine(pen_Koordinatensystem, -zeichnen_Panel.Height, 0, zeichnen_Panel.Width, 0);
             g.DrawLine(pen_Koordinatensystem, 0, -zeichnen_Panel.Height, 0, zeichnen_Panel.Width);
