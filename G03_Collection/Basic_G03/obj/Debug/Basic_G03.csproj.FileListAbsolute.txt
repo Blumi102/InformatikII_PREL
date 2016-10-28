@@ -6,3 +6,5 @@ D:\syncplicity\z003jy8t\Dev\Programme DH\prel\Basic_G03\Basic_G03\obj\Debug\Basi
 D:\syncplicity\z003jy8t\Dev\Programme DH\prel\Basic_G03\Basic_G03\obj\Debug\Basic_G03.csproj.GenerateResource.Cache
 D:\syncplicity\z003jy8t\Dev\Programme DH\prel\Basic_G03\Basic_G03\obj\Debug\Basic_G03.exe
 D:\syncplicity\z003jy8t\Dev\Programme DH\prel\Basic_G03\Basic_G03\obj\Debug\Basic_G03.pdb
+D:\InformatikII_PREL\G03_Collection\Basic_G03\obj\Debug\Basic_G03.exe
+D:\InformatikII_PREL\G03_Collection\Basic_G03\obj\Debug\Basic_G03.pdb
