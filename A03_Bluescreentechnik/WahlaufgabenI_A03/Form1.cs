@@ -19,30 +19,80 @@ namespace WahlaufgabenI_A03
 
         private void Convert_button_Click(object sender, EventArgs e)
         {
-            Bitmap ergebnis = new Bitmap(255, 255);
-            for (int i = 0; i < 255; i++)
+           
+            int h = 0;
+            int w = 0;
+
+            Bitmap pic2 = new Bitmap(pic2_box.Image);
+            if (pic2_box.Image.Width > pic2_box.Image.Height)
             {
-                for (int j = 0; i < 255; i++)
+                if (pic1_box.Image.Width > pic2_box.Image.Width)
                 {
-                    Bitmap pic1 = new Bitmap(pic1_box.Image);
-                    Color pixelcolor1 = pic1.GetPixel(i, j);
-                    int r = pixelcolor1.R;
-                    int g = pixelcolor1.G;
-                    int b = pixelcolor1.B;
+                    double w2 = Convert.ToDouble(pic2_box.Image.Width);
+                    double w1 = Convert.ToDouble(pic1_box.Image.Width);
+                    double verkleinerung =  w2/w1 ;
 
-                    Bitmap pic2 = new Bitmap(pic2_box.Image);
-                    Color pixelcolor2 = pic2.GetPixel(i, j);
-
-                    if (g-r>35 && g-b>35)
-                    {
-                        ergebnis.SetPixel(i, j, pixelcolor1);
-                    }
-                    else
-                    {
-                        ergebnis.SetPixel(i, j, pixelcolor2);
-                    }
+                    h = Convert.ToInt32(pic1_box.Image.Height * verkleinerung);
+                    w = pic2_box.Image.Width;
                 }
             }
+            else
+            {
+                if (pic1_box.Image.Height > pic2_box.Image.Height)
+                {
+                    double verkleinerung = pic2_box.Image.Height / pic1_box.Image.Height;
+                    //w = Convert.ToInt32(pic1_box.Image.Width * verkleinerung);
+                    h = pic2_box.Image.Height;
+                }
+            }
+
+
+            if (h > pic2.Height)
+            {
+                double verkleinerung = pic2.Height / h;
+                w = w * Convert.ToInt32(verkleinerung);
+                h = pic2.Height;
+
+            }
+
+            if (w > pic2.Width)
+            {
+                double verkleinerung = pic2.Width / w;
+                h = h * Convert.ToInt32(verkleinerung);
+                w = pic2.Width;
+
+            }
+
+            Bitmap pic1 = new Bitmap(pic1_box.Image, w, h);
+            
+
+            Bitmap ergebnis = new Bitmap(pic2_box.Image);
+
+            for (int i = 0; i < pic2.Width; i++)
+            {
+                for (int j = 0; j < pic2.Height; j++)
+                {
+                    if ((i < pic1.Width) && (j < pic1.Height))
+                    {
+                        Color pixelcolor1 = pic1.GetPixel(i, j);
+                        int r = pixelcolor1.R;
+                        int g = pixelcolor1.G;
+                        int b = pixelcolor1.B;
+
+                        Color pixelcolor2 = pic2.GetPixel(i, j);
+                                          
+                        if (!(g - r > 35 && g - b > 35))
+                        {
+                            ergebnis.SetPixel(i, j, pixelcolor1);
+                        }
+                    }  
+                    else
+                    {
+
+                    }     
+                }
+            }
+            erg_box.SizeMode = PictureBoxSizeMode.Zoom;
             erg_box.Image = ergebnis;
         }
 
