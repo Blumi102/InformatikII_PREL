@@ -38,6 +38,10 @@
             this.pic1_button = new System.Windows.Forms.Button();
             this.pic2_button = new System.Windows.Forms.Button();
             this.select_pic_dialog = new System.Windows.Forms.OpenFileDialog();
+            this.save_button = new System.Windows.Forms.Button();
+            this.save_picture_dialog = new System.Windows.Forms.SaveFileDialog();
+            this.Blue_checkbox = new System.Windows.Forms.CheckBox();
+            this.Green_checkbox = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.pic1_box)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pic2_box)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.erg_box)).BeginInit();
@@ -45,7 +49,7 @@
             // 
             // pic1_box
             // 
-            this.pic1_box.Location = new System.Drawing.Point(12, 42);
+            this.pic1_box.Location = new System.Drawing.Point(10, 89);
             this.pic1_box.Name = "pic1_box";
             this.pic1_box.Size = new System.Drawing.Size(250, 250);
             this.pic1_box.TabIndex = 0;
@@ -53,7 +57,7 @@
             // 
             // pic2_box
             // 
-            this.pic2_box.Location = new System.Drawing.Point(268, 42);
+            this.pic2_box.Location = new System.Drawing.Point(266, 89);
             this.pic2_box.Name = "pic2_box";
             this.pic2_box.Size = new System.Drawing.Size(250, 250);
             this.pic2_box.TabIndex = 1;
@@ -61,7 +65,7 @@
             // 
             // erg_box
             // 
-            this.erg_box.Location = new System.Drawing.Point(638, 42);
+            this.erg_box.Location = new System.Drawing.Point(636, 89);
             this.erg_box.Name = "erg_box";
             this.erg_box.Size = new System.Drawing.Size(250, 250);
             this.erg_box.TabIndex = 2;
@@ -70,16 +74,16 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(36, 26);
+            this.label1.Location = new System.Drawing.Point(20, 73);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(192, 13);
+            this.label1.Size = new System.Drawing.Size(232, 13);
             this.label1.TabIndex = 3;
-            this.label1.Text = "Original 1 (Vordergrund vor Bluescreen)";
+            this.label1.Text = "Original 1 (Vordergrund vor Blue-/ Greenscreen)";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(329, 26);
+            this.label2.Location = new System.Drawing.Point(327, 73);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(115, 13);
             this.label2.TabIndex = 4;
@@ -88,7 +92,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(747, 26);
+            this.label3.Location = new System.Drawing.Point(745, 73);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(48, 13);
             this.label3.TabIndex = 5;
@@ -97,7 +101,7 @@
             // Convert_button
             // 
             this.Convert_button.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Convert_button.Location = new System.Drawing.Point(540, 122);
+            this.Convert_button.Location = new System.Drawing.Point(538, 169);
             this.Convert_button.Name = "Convert_button";
             this.Convert_button.Size = new System.Drawing.Size(75, 75);
             this.Convert_button.TabIndex = 6;
@@ -107,7 +111,7 @@
             // 
             // pic1_button
             // 
-            this.pic1_button.Location = new System.Drawing.Point(93, 298);
+            this.pic1_button.Location = new System.Drawing.Point(91, 345);
             this.pic1_button.Name = "pic1_button";
             this.pic1_button.Size = new System.Drawing.Size(93, 23);
             this.pic1_button.TabIndex = 7;
@@ -117,7 +121,7 @@
             // 
             // pic2_button
             // 
-            this.pic2_button.Location = new System.Drawing.Point(351, 298);
+            this.pic2_button.Location = new System.Drawing.Point(349, 345);
             this.pic2_button.Name = "pic2_button";
             this.pic2_button.Size = new System.Drawing.Size(93, 23);
             this.pic2_button.TabIndex = 8;
@@ -129,11 +133,48 @@
             // 
             this.select_pic_dialog.FileName = "openFileDialog1";
             // 
+            // save_button
+            // 
+            this.save_button.Location = new System.Drawing.Point(732, 345);
+            this.save_button.Name = "save_button";
+            this.save_button.Size = new System.Drawing.Size(93, 23);
+            this.save_button.TabIndex = 9;
+            this.save_button.Text = "Speichern";
+            this.save_button.UseVisualStyleBackColor = true;
+            this.save_button.Click += new System.EventHandler(this.save_button_Click);
+            // 
+            // Blue_checkbox
+            // 
+            this.Blue_checkbox.AutoSize = true;
+            this.Blue_checkbox.Location = new System.Drawing.Point(132, 31);
+            this.Blue_checkbox.Name = "Blue_checkbox";
+            this.Blue_checkbox.Size = new System.Drawing.Size(79, 17);
+            this.Blue_checkbox.TabIndex = 10;
+            this.Blue_checkbox.Text = "Bluescreen";
+            this.Blue_checkbox.UseVisualStyleBackColor = true;
+            this.Blue_checkbox.CheckedChanged += new System.EventHandler(this.Blue_checkbox_CheckedChanged);
+            // 
+            // Green_checkbox
+            // 
+            this.Green_checkbox.AutoSize = true;
+            this.Green_checkbox.Checked = true;
+            this.Green_checkbox.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.Green_checkbox.Location = new System.Drawing.Point(39, 31);
+            this.Green_checkbox.Name = "Green_checkbox";
+            this.Green_checkbox.Size = new System.Drawing.Size(87, 17);
+            this.Green_checkbox.TabIndex = 11;
+            this.Green_checkbox.Text = "Greenscreen";
+            this.Green_checkbox.UseVisualStyleBackColor = true;
+            this.Green_checkbox.CheckedChanged += new System.EventHandler(this.Green_checkbox_CheckedChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(900, 358);
+            this.ClientSize = new System.Drawing.Size(900, 393);
+            this.Controls.Add(this.Green_checkbox);
+            this.Controls.Add(this.Blue_checkbox);
+            this.Controls.Add(this.save_button);
             this.Controls.Add(this.pic2_button);
             this.Controls.Add(this.pic1_button);
             this.Controls.Add(this.Convert_button);
@@ -165,6 +206,10 @@
         private System.Windows.Forms.Button pic1_button;
         private System.Windows.Forms.Button pic2_button;
         private System.Windows.Forms.OpenFileDialog select_pic_dialog;
+        private System.Windows.Forms.Button save_button;
+        private System.Windows.Forms.SaveFileDialog save_picture_dialog;
+        private System.Windows.Forms.CheckBox Blue_checkbox;
+        private System.Windows.Forms.CheckBox Green_checkbox;
     }
 }
 
