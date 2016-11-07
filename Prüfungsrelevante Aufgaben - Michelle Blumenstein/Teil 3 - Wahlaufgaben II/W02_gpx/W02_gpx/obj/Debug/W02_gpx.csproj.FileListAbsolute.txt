@@ -1,0 +1,18 @@
+D:\InformatikII_PREL\W02_gpx\W02_gpx\bin\Debug\W02_gpx.exe.config
+D:\InformatikII_PREL\W02_gpx\W02_gpx\bin\Debug\W02_gpx.exe
+D:\InformatikII_PREL\W02_gpx\W02_gpx\bin\Debug\W02_gpx.pdb
+D:\InformatikII_PREL\W02_gpx\W02_gpx\obj\Debug\W02_gpx.csprojResolveAssemblyReference.cache
+D:\InformatikII_PREL\W02_gpx\W02_gpx\obj\Debug\W02_gpx.Form1.resources
+D:\InformatikII_PREL\W02_gpx\W02_gpx\obj\Debug\W02_gpx.Properties.Resources.resources
+D:\InformatikII_PREL\W02_gpx\W02_gpx\obj\Debug\W02_gpx.csproj.GenerateResource.Cache
+D:\InformatikII_PREL\W02_gpx\W02_gpx\obj\Debug\W02_gpx.exe
+D:\InformatikII_PREL\W02_gpx\W02_gpx\obj\Debug\W02_gpx.pdb
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W02_gpx\W02_gpx\bin\Debug\W02_gpx.exe.config
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W02_gpx\W02_gpx\obj\Debug\W02_gpx.exe
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W02_gpx\W02_gpx\obj\Debug\W02_gpx.pdb
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W02_gpx\W02_gpx\bin\Debug\W02_gpx.exe
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W02_gpx\W02_gpx\bin\Debug\W02_gpx.pdb
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W02_gpx\W02_gpx\obj\Debug\W02_gpx.csprojResolveAssemblyReference.cache
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W02_gpx\W02_gpx\obj\Debug\W02_gpx.Form1.resources
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W02_gpx\W02_gpx\obj\Debug\W02_gpx.Properties.Resources.resources
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W02_gpx\W02_gpx\obj\Debug\W02_gpx.csproj.GenerateResource.Cache

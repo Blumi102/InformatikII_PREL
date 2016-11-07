@@ -1,0 +1,18 @@
+D:\InformatikII_PREL\W06_user32.dll\W06_user32.dll\bin\Debug\W06_user32.dll.exe.config
+D:\InformatikII_PREL\W06_user32.dll\W06_user32.dll\bin\Debug\W06_user32.dll.exe
+D:\InformatikII_PREL\W06_user32.dll\W06_user32.dll\bin\Debug\W06_user32.dll.pdb
+D:\InformatikII_PREL\W06_user32.dll\W06_user32.dll\obj\Debug\W06_user32.dll.csprojResolveAssemblyReference.cache
+D:\InformatikII_PREL\W06_user32.dll\W06_user32.dll\obj\Debug\W06_user32.dll.Form1.resources
+D:\InformatikII_PREL\W06_user32.dll\W06_user32.dll\obj\Debug\W06_user32.dll.Properties.Resources.resources
+D:\InformatikII_PREL\W06_user32.dll\W06_user32.dll\obj\Debug\W06_user32.dll.csproj.GenerateResource.Cache
+D:\InformatikII_PREL\W06_user32.dll\W06_user32.dll\obj\Debug\W06_user32.dll.exe
+D:\InformatikII_PREL\W06_user32.dll\W06_user32.dll\obj\Debug\W06_user32.dll.pdb
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W06_user32.dll\W06_user32.dll\bin\Debug\W06_user32.dll.exe.config
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W06_user32.dll\W06_user32.dll\obj\Debug\W06_user32.dll.exe
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W06_user32.dll\W06_user32.dll\obj\Debug\W06_user32.dll.pdb
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W06_user32.dll\W06_user32.dll\bin\Debug\W06_user32.dll.exe
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W06_user32.dll\W06_user32.dll\bin\Debug\W06_user32.dll.pdb
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W06_user32.dll\W06_user32.dll\obj\Debug\W06_user32.dll.csprojResolveAssemblyReference.cache
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W06_user32.dll\W06_user32.dll\obj\Debug\W06_user32.dll.Form1.resources
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W06_user32.dll\W06_user32.dll\obj\Debug\W06_user32.dll.Properties.Resources.resources
+D:\InformatikII_PREL\Teil 3 - Wahlaufgaben II\W06_user32.dll\W06_user32.dll\obj\Debug\W06_user32.dll.csproj.GenerateResource.Cache

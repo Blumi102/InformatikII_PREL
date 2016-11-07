@@ -1,0 +1,10 @@
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\LabView_dll\LabView_dll\bin\Debug\LabView_dll.dll
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\LabView_dll\LabView_dll\bin\Debug\LabView_dll.pdb
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\LabView_dll\LabView_dll\obj\Debug\LabView_dll.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\LabView_dll\LabView_dll\obj\Debug\LabView_dll.dll
+C:\Users\Michelle\Dropbox\DH\3. Semester\Info\Programme\PREL\LabView_dll\LabView_dll\obj\Debug\LabView_dll.pdb
+D:\InformatikII_PREL\LabView_dll\LabView_dll\bin\Debug\LabView_dll.dll
+D:\InformatikII_PREL\LabView_dll\LabView_dll\bin\Debug\LabView_dll.pdb
+D:\InformatikII_PREL\LabView_dll\LabView_dll\obj\Debug\LabView_dll.csprojResolveAssemblyReference.cache
+D:\InformatikII_PREL\LabView_dll\LabView_dll\obj\Debug\LabView_dll.dll
+D:\InformatikII_PREL\LabView_dll\LabView_dll\obj\Debug\LabView_dll.pdb
